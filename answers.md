@@ -3,6 +3,8 @@
 Lastname: Casteur
 Firstname: Gautier
 
+J'ai juste réussi à build  l'image mais pas à run...
+
 ## 2.2
 command:
 
