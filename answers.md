@@ -13,9 +13,11 @@ command: docker run -i --expose 3000 app
 ## 2.5
 question:
 command: docker login
+	 docker tag img gautiercasteur/devops-lab
+	 docker push gautiercasteur/devops-lab
 
 ## 2.6
-command:
+command: docker system prune -a
 
 question:
 command:
