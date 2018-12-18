@@ -3,18 +3,16 @@
 Lastname: Casteur
 Firstname: Gautier
 
-J'ai juste réussi à build  l'image mais pas à run...
-
 ## 2.2
-command:
+command: docker run app
 
 ## 2.3
 question:
-command:
+command: docker run -i --expose 3000 app
 
 ## 2.5
 question:
-command:
+command: docker login
 
 ## 2.6
 command:
